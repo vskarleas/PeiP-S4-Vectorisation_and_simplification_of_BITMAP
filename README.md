@@ -1,4 +1,4 @@
-# MAP401 Software Project
+# PeiP-S4-MAP401_Project
 
 ## Description
 
@@ -79,3 +79,6 @@ Below you can find the releases of the code as well as a callendar of the latest
 * Tache7.2: test_approx3 & test_degree3
 * Tache8.1: test_simplification-courbe_hilbert_7, test_simplification-courbe_hilbert_8, test_simplification-courbe_hilbert_9, test_simplification-courbe_hilbert_10, test_simplification-zebres-1000x0750, test_simplification-zebres-2000x1500, test_simplification-zebres-3000x2250, test_simplification-zebres-4000x3750(Tache 6 folder)
 * Tache8.2: test_degree2-tache8, test_degree3-tache8 & test_simplification-tache8 (Tache 7 folder)
+
+---
+**PeiP2-S4-MAP401_Project** © 2023 by **Vasileios Filippos Skarelas** and **Maxime Gros** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
