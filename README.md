@@ -81,4 +81,4 @@ Below you can find the releases of the code as well as a callendar of the latest
 * Tache8.2: test_degree2-tache8, test_degree3-tache8 & test_simplification-tache8 (Tache 7 folder)
 
 ---
-**PeiP2-S4-MAP401_Project** © 2023 by **Vasileios Filippos Skarelas** and **Maxime Gros** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+**PeiP-S4-Vectorisation_and_simplification_of_BITMAP** © 2023 by **Vasileios Filippos Skarelas** and **Maxime Gros** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
