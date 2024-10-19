@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is for the course MAP401 (DLST). The explication of the project can be found at Poly-cours-td.pdf and the questions for every Task1-8 are explained in detailed on the file Poly-tp.pdf
+This project is for the course MAP401 (DLST). The explication of the project can be found at Poly-cours-td.pdf and the questions for every Task1-8 are explained in detailed on the file Poly-tp.pdf. In general it is all about vectorisation and simplification of BITMAP images.
 
 This work is licensed under the MIT license
 
